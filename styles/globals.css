@@ -105,3 +105,11 @@ a {
     color-scheme: dark;
   }
 }
+
+/* Code From Here */
+
+:root{
+  --primary: rgb(0, 0, 113);
+  --secondary: black;
+  --text: red;
+}
